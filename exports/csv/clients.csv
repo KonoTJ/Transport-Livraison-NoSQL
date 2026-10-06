@@ -1,0 +1,301 @@
+code,nom,prenom,telephone,moyen_paiement
+CLI-0001,Nkeng,Samuel,689415743,espèces
+CLI-0002,Tagne,Paul,676718699,MTN Mobile Money
+CLI-0003,Mbarga,Paul,672381420,Orange Money
+CLI-0004,Bello,Carine,659902193,espèces
+CLI-0005,Atangana,Brenda,651730076,Orange Money
+CLI-0006,Njoya,Samuel,685305002,Orange Money
+CLI-0007,Ngo Bassa,Pavel,676952077,MTN Mobile Money
+CLI-0008,Donfack,Amstrong,690629504,MTN Mobile Money
+CLI-0009,Bello,Samuel,672745315,MTN Mobile Money
+CLI-0010,Fotso,Kevin,656256566,MTN Mobile Money
+CLI-0011,Ndongo,Brenda,658202802,MTN Mobile Money
+CLI-0012,Bello,Marie,673495752,espèces
+CLI-0013,Kamga,Aline,662107517,MTN Mobile Money
+CLI-0014,Abena,Jordan,672877142,Orange Money
+CLI-0015,Abena,Pavel,690740181,MTN Mobile Money
+CLI-0016,Bello,Nadine,690220017,Orange Money
+CLI-0017,Nkou,Carine,658052013,Orange Money
+CLI-0018,Ngo Bassa,Samuel,651257723,MTN Mobile Money
+CLI-0019,Abena,Brice,657729154,MTN Mobile Money
+CLI-0020,Fotso,Samuel,657104354,Orange Money
+CLI-0021,Atangana,Amstrong,684222303,Orange Money
+CLI-0022,Ekane,Lina,683159632,MTN Mobile Money
+CLI-0023,Tagne,Brice,655149330,espèces
+CLI-0024,Tchoupo,Carine,690601254,MTN Mobile Money
+CLI-0025,Mvondo,Samuel,672707434,espèces
+CLI-0026,Njoya,Hervé,670819299,espèces
+CLI-0027,Tchoupo,Carine,682633089,Orange Money
+CLI-0028,Acha,Loic,699569559,espèces
+CLI-0029,Ekane,Daniella,691925623,Orange Money
+CLI-0030,Donfack,Jordan,668909380,MTN Mobile Money
+CLI-0031,Kamga,Jordan,684450519,Orange Money
+CLI-0032,Tagne,Moussa,651891634,MTN Mobile Money
+CLI-0033,Litchuindem,Daniella,659314219,espèces
+CLI-0034,Nkou,Marie,653204411,Orange Money
+CLI-0035,Abena,Aline,691259172,MTN Mobile Money
+CLI-0036,Acha,Loic,684046185,espèces
+CLI-0037,Ndongo,Lina,661750032,espèces
+CLI-0038,Tchoupo,Paul,671179276,MTN Mobile Money
+CLI-0039,Donfack,Nadine,672752362,Orange Money
+CLI-0040,Nkeng,Brice,671556134,Orange Money
+CLI-0041,Ekane,Daniella,679790187,MTN Mobile Money
+CLI-0042,Acha,Brenda,660736527,Orange Money
+CLI-0043,Tagne,Hervé,675692923,espèces
+CLI-0044,Kono,Ibrahim,685531451,MTN Mobile Money
+CLI-0045,Atangana,Jean,667467750,espèces
+CLI-0046,Fotso,Brenda,671447172,espèces
+CLI-0047,Tchoupo,Ibrahim,665887096,MTN Mobile Money
+CLI-0048,Nkeng,Ibrahim,691067159,Orange Money
+CLI-0049,Kono,Kevin,658410537,MTN Mobile Money
+CLI-0050,Atangana,Amstrong,660268694,MTN Mobile Money
+CLI-0051,Nkou,Kevin,666817837,Orange Money
+CLI-0052,Mbarga,Kevin,653050889,espèces
+CLI-0053,Ngo Bassa,Sandra,679501425,MTN Mobile Money
+CLI-0054,Nkeng,Marie,671415504,Orange Money
+CLI-0055,Ekane,Carine,688767920,espèces
+CLI-0056,Bello,Rose,689147560,MTN Mobile Money
+CLI-0057,Litchuindem,Brice,686016706,Orange Money
+CLI-0058,Tagne,Paul,676882577,Orange Money
+CLI-0059,Njoya,Rose,690430604,espèces
+CLI-0060,Njoya,Carine,691142305,MTN Mobile Money
+CLI-0061,Acha,Amstrong,685724721,MTN Mobile Money
+CLI-0062,Kono,Ivan,665270167,espèces
+CLI-0063,Ngo Bassa,Ivan,697011162,Orange Money
+CLI-0064,Tchoupo,Samuel,683676536,espèces
+CLI-0065,Nkeng,Carine,686659775,MTN Mobile Money
+CLI-0066,Kamga,Brice,658178832,espèces
+CLI-0067,Nkeng,Daniella,668228208,Orange Money
+CLI-0068,Bello,Paul,656724171,MTN Mobile Money
+CLI-0069,Litchuindem,Pavel,693656912,Orange Money
+CLI-0070,Ngo Bassa,Nadine,683244650,Orange Money
+CLI-0071,Ndongo,Sandra,699064581,MTN Mobile Money
+CLI-0072,Atangana,Sandra,659436303,MTN Mobile Money
+CLI-0073,Kamga,Lina,674129132,espèces
+CLI-0074,Acha,Daniella,670869376,espèces
+CLI-0075,Njoya,Jordan,690650452,MTN Mobile Money
+CLI-0076,Kono,Marie,654144512,espèces
+CLI-0077,Kono,Paul,687500245,MTN Mobile Money
+CLI-0078,Litchuindem,Paul,669266331,MTN Mobile Money
+CLI-0079,Mvondo,Nadine,655385485,espèces
+CLI-0080,Nkeng,Nadine,665412494,Orange Money
+CLI-0081,Mbarga,Moussa,663829903,Orange Money
+CLI-0082,Donfack,Moussa,686222667,Orange Money
+CLI-0083,Kono,Carine,688753678,espèces
+CLI-0084,Mvondo,Amstrong,671389907,espèces
+CLI-0085,Donfack,Paul,687741082,MTN Mobile Money
+CLI-0086,Tchoupo,Paul,668016152,MTN Mobile Money
+CLI-0087,Litchuindem,Moussa,696682689,espèces
+CLI-0088,Litchuindem,Carine,663631655,MTN Mobile Money
+CLI-0089,Njoya,Rose,672136884,Orange Money
+CLI-0090,Tagne,Sandra,659392457,espèces
+CLI-0091,Acha,Jordan,675045074,Orange Money
+CLI-0092,Ekane,Marie,656463515,espèces
+CLI-0093,Mvondo,Kevin,675035067,MTN Mobile Money
+CLI-0094,Litchuindem,Paul,692731440,Orange Money
+CLI-0095,Kamga,Loic,687816506,espèces
+CLI-0096,Mvondo,Kevin,670084132,Orange Money
+CLI-0097,Mvondo,Carine,651988144,espèces
+CLI-0098,Bello,Daniella,654932950,Orange Money
+CLI-0099,Atangana,Ibrahim,655858418,Orange Money
+CLI-0100,Mvondo,Aline,669585544,MTN Mobile Money
+CLI-0101,Litchuindem,Ibrahim,654245786,Orange Money
+CLI-0102,Atangana,Ibrahim,670445252,Orange Money
+CLI-0103,Tchoupo,Pavel,671084483,Orange Money
+CLI-0104,Kono,Loic,662074710,espèces
+CLI-0105,Abena,Nadine,654963716,MTN Mobile Money
+CLI-0106,Bello,Brenda,694606851,MTN Mobile Money
+CLI-0107,Ndongo,Samuel,657109818,Orange Money
+CLI-0108,Kono,Daniella,683585690,Orange Money
+CLI-0109,Tchoupo,Amstrong,682408615,MTN Mobile Money
+CLI-0110,Ekane,Moussa,684627764,Orange Money
+CLI-0111,Tchoupo,Rose,668679405,espèces
+CLI-0112,Atangana,Jean,695010010,MTN Mobile Money
+CLI-0113,Bello,Brice,657848308,Orange Money
+CLI-0114,Ekane,Loic,661198155,MTN Mobile Money
+CLI-0115,Nkeng,Amstrong,693826769,MTN Mobile Money
+CLI-0116,Nkou,Sandra,680690318,espèces
+CLI-0117,Bello,Brice,652162945,MTN Mobile Money
+CLI-0118,Abena,Sandra,691349207,Orange Money
+CLI-0119,Ekane,Carine,697248248,MTN Mobile Money
+CLI-0120,Njoya,Moussa,659814231,espèces
+CLI-0121,Fotso,Nadine,684602234,espèces
+CLI-0122,Fotso,Loic,676690260,Orange Money
+CLI-0123,Ndongo,Brenda,653248690,Orange Money
+CLI-0124,Donfack,Aline,678709125,Orange Money
+CLI-0125,Bello,Samuel,693988869,Orange Money
+CLI-0126,Bello,Nadine,655994907,espèces
+CLI-0127,Njoya,Lina,695441900,Orange Money
+CLI-0128,Tchoupo,Lina,660158545,MTN Mobile Money
+CLI-0129,Nkeng,Louise,690265846,espèces
+CLI-0130,Fotso,Amstrong,650809803,MTN Mobile Money
+CLI-0131,Kamga,Rose,652672735,Orange Money
+CLI-0132,Nkou,Kevin,684313077,Orange Money
+CLI-0133,Bello,Paul,666406758,Orange Money
+CLI-0134,Mbarga,Sandra,683313707,MTN Mobile Money
+CLI-0135,Fotso,Pavel,680547805,espèces
+CLI-0136,Ngo Bassa,Aline,666411570,Orange Money
+CLI-0137,Ndongo,Moussa,677934507,espèces
+CLI-0138,Ngo Bassa,Nadine,654625574,MTN Mobile Money
+CLI-0139,Tagne,Ivan,683108874,Orange Money
+CLI-0140,Abena,Pavel,654019490,Orange Money
+CLI-0141,Njoya,Moussa,669574046,MTN Mobile Money
+CLI-0142,Njoya,Marie,661031018,MTN Mobile Money
+CLI-0143,Ekane,Brenda,670415521,espèces
+CLI-0144,Nkeng,Loic,666767326,Orange Money
+CLI-0145,Fotso,Ivan,689333763,MTN Mobile Money
+CLI-0146,Njoya,Kevin,672249936,Orange Money
+CLI-0147,Mvondo,Pavel,651978523,MTN Mobile Money
+CLI-0148,Ngo Bassa,Kevin,668775448,MTN Mobile Money
+CLI-0149,Mbarga,Nadine,697873495,MTN Mobile Money
+CLI-0150,Kamga,Paul,681654203,espèces
+CLI-0151,Mvondo,Hervé,661657617,Orange Money
+CLI-0152,Kono,Ivan,659536323,espèces
+CLI-0153,Ngo Bassa,Moussa,690376906,Orange Money
+CLI-0154,Njoya,Carine,698112870,Orange Money
+CLI-0155,Mvondo,Ivan,656780154,MTN Mobile Money
+CLI-0156,Tagne,Moussa,694663074,espèces
+CLI-0157,Kono,Nadine,688083123,Orange Money
+CLI-0158,Litchuindem,Ibrahim,672224336,espèces
+CLI-0159,Fotso,Daniella,694964587,espèces
+CLI-0160,Litchuindem,Nadine,673570724,espèces
+CLI-0161,Mbarga,Carine,667523983,Orange Money
+CLI-0162,Fotso,Carine,689864714,espèces
+CLI-0163,Nkeng,Jean,694331974,MTN Mobile Money
+CLI-0164,Nkou,Brenda,691949143,espèces
+CLI-0165,Mvondo,Pavel,682822731,espèces
+CLI-0166,Donfack,Jean,665182862,MTN Mobile Money
+CLI-0167,Litchuindem,Ivan,665813668,MTN Mobile Money
+CLI-0168,Njoya,Paul,678412208,Orange Money
+CLI-0169,Mbarga,Daniella,691812709,espèces
+CLI-0170,Litchuindem,Ivan,690866758,MTN Mobile Money
+CLI-0171,Mvondo,Paul,676561201,MTN Mobile Money
+CLI-0172,Donfack,Carine,668080468,espèces
+CLI-0173,Ekane,Kevin,670879117,espèces
+CLI-0174,Acha,Nadine,692641630,Orange Money
+CLI-0175,Ekane,Ivan,664382676,Orange Money
+CLI-0176,Nkou,Daniella,697604893,espèces
+CLI-0177,Acha,Brenda,675114134,espèces
+CLI-0178,Ngo Bassa,Louise,677118586,espèces
+CLI-0179,Kono,Rose,673029550,espèces
+CLI-0180,Fotso,Moussa,673842665,Orange Money
+CLI-0181,Acha,Marie,695680853,MTN Mobile Money
+CLI-0182,Ekane,Carine,692580505,Orange Money
+CLI-0183,Ekane,Pavel,655908354,Orange Money
+CLI-0184,Bello,Moussa,696541657,MTN Mobile Money
+CLI-0185,Acha,Carine,679102780,espèces
+CLI-0186,Mvondo,Aline,665328891,Orange Money
+CLI-0187,Atangana,Lina,651324847,Orange Money
+CLI-0188,Kamga,Louise,690643432,espèces
+CLI-0189,Litchuindem,Rose,690869419,Orange Money
+CLI-0190,Fotso,Marie,688530739,espèces
+CLI-0191,Kamga,Jordan,653360825,Orange Money
+CLI-0192,Atangana,Marie,653079564,Orange Money
+CLI-0193,Kamga,Kevin,675006249,MTN Mobile Money
+CLI-0194,Mvondo,Daniella,682094479,MTN Mobile Money
+CLI-0195,Njoya,Pavel,682757365,Orange Money
+CLI-0196,Ndongo,Amstrong,685104859,espèces
+CLI-0197,Fotso,Pavel,671517371,Orange Money
+CLI-0198,Donfack,Kevin,683450825,MTN Mobile Money
+CLI-0199,Nkou,Amstrong,687737500,Orange Money
+CLI-0200,Mbarga,Carine,673832973,espèces
+CLI-0201,Atangana,Nadine,664467966,MTN Mobile Money
+CLI-0202,Kono,Marie,680232851,MTN Mobile Money
+CLI-0203,Mvondo,Brenda,690301961,espèces
+CLI-0204,Abena,Louise,696977163,espèces
+CLI-0205,Nkeng,Pavel,689111466,espèces
+CLI-0206,Ngo Bassa,Daniella,669806548,Orange Money
+CLI-0207,Ndongo,Loic,653610604,Orange Money
+CLI-0208,Ekane,Sandra,699330349,espèces
+CLI-0209,Ekane,Ivan,667113844,Orange Money
+CLI-0210,Tagne,Kevin,697491705,MTN Mobile Money
+CLI-0211,Acha,Pavel,687670532,espèces
+CLI-0212,Bello,Paul,695805246,MTN Mobile Money
+CLI-0213,Tchoupo,Carine,684486889,Orange Money
+CLI-0214,Tchoupo,Brenda,678468214,Orange Money
+CLI-0215,Ngo Bassa,Kevin,654915592,Orange Money
+CLI-0216,Kamga,Samuel,676040427,MTN Mobile Money
+CLI-0217,Nkou,Louise,655805267,MTN Mobile Money
+CLI-0218,Tagne,Aline,687146379,espèces
+CLI-0219,Nkeng,Kevin,670447477,Orange Money
+CLI-0220,Nkeng,Jordan,693263374,espèces
+CLI-0221,Litchuindem,Carine,673967149,Orange Money
+CLI-0222,Ndongo,Samuel,661317206,Orange Money
+CLI-0223,Nkou,Pavel,687022069,Orange Money
+CLI-0224,Fotso,Kevin,651250257,espèces
+CLI-0225,Nkou,Ibrahim,681185565,espèces
+CLI-0226,Njoya,Pavel,674078361,Orange Money
+CLI-0227,Tchoupo,Amstrong,674243168,MTN Mobile Money
+CLI-0228,Mvondo,Lina,675401947,MTN Mobile Money
+CLI-0229,Acha,Lina,668844807,Orange Money
+CLI-0230,Bello,Samuel,672161008,espèces
+CLI-0231,Abena,Aline,666352437,Orange Money
+CLI-0232,Ekane,Jean,662082114,espèces
+CLI-0233,Njoya,Ivan,662206038,espèces
+CLI-0234,Atangana,Sandra,681935040,espèces
+CLI-0235,Acha,Samuel,665400561,MTN Mobile Money
+CLI-0236,Abena,Jean,662684985,Orange Money
+CLI-0237,Kono,Hervé,691062617,MTN Mobile Money
+CLI-0238,Atangana,Moussa,679970474,espèces
+CLI-0239,Ngo Bassa,Sandra,676112305,espèces
+CLI-0240,Fotso,Jean,664882749,MTN Mobile Money
+CLI-0241,Ngo Bassa,Sandra,692969222,MTN Mobile Money
+CLI-0242,Ngo Bassa,Hervé,666056240,espèces
+CLI-0243,Mvondo,Nadine,689331174,Orange Money
+CLI-0244,Mbarga,Jean,661746385,MTN Mobile Money
+CLI-0245,Kono,Pavel,666325791,MTN Mobile Money
+CLI-0246,Tagne,Amstrong,685946991,Orange Money
+CLI-0247,Tchoupo,Pavel,699466765,Orange Money
+CLI-0248,Tagne,Ibrahim,657159797,Orange Money
+CLI-0249,Ngo Bassa,Pavel,674910577,espèces
+CLI-0250,Njoya,Paul,685281508,MTN Mobile Money
+CLI-0251,Mbarga,Aline,695238290,Orange Money
+CLI-0252,Ekane,Pavel,678450325,Orange Money
+CLI-0253,Kamga,Moussa,687268239,MTN Mobile Money
+CLI-0254,Acha,Loic,698355985,MTN Mobile Money
+CLI-0255,Atangana,Jordan,699968805,MTN Mobile Money
+CLI-0256,Tchoupo,Ivan,688647622,espèces
+CLI-0257,Abena,Lina,691091437,espèces
+CLI-0258,Donfack,Hervé,689387519,espèces
+CLI-0259,Atangana,Kevin,681754961,espèces
+CLI-0260,Fotso,Lina,676162136,MTN Mobile Money
+CLI-0261,Ekane,Aline,652359210,espèces
+CLI-0262,Kono,Samuel,685128792,espèces
+CLI-0263,Mbarga,Daniella,683012974,MTN Mobile Money
+CLI-0264,Bello,Sandra,697978675,espèces
+CLI-0265,Ekane,Ibrahim,669434411,Orange Money
+CLI-0266,Bello,Kevin,660112211,Orange Money
+CLI-0267,Fotso,Ibrahim,653760669,MTN Mobile Money
+CLI-0268,Bello,Nadine,679726605,Orange Money
+CLI-0269,Nkou,Rose,674187823,Orange Money
+CLI-0270,Fotso,Moussa,660582964,MTN Mobile Money
+CLI-0271,Nkeng,Marie,658444137,MTN Mobile Money
+CLI-0272,Donfack,Rose,651432964,espèces
+CLI-0273,Kono,Sandra,686481757,MTN Mobile Money
+CLI-0274,Donfack,Aline,692817204,espèces
+CLI-0275,Nkeng,Ibrahim,691140367,MTN Mobile Money
+CLI-0276,Atangana,Pavel,662859175,Orange Money
+CLI-0277,Fotso,Aline,664008176,espèces
+CLI-0278,Kamga,Amstrong,652728186,espèces
+CLI-0279,Bello,Loic,675859131,Orange Money
+CLI-0280,Nkeng,Samuel,657080936,espèces
+CLI-0281,Nkeng,Carine,674945674,MTN Mobile Money
+CLI-0282,Nkou,Louise,651094038,espèces
+CLI-0283,Ndongo,Aline,696286270,MTN Mobile Money
+CLI-0284,Fotso,Carine,682382253,Orange Money
+CLI-0285,Abena,Samuel,658089337,Orange Money
+CLI-0286,Donfack,Louise,688604699,espèces
+CLI-0287,Ndongo,Kevin,681934065,espèces
+CLI-0288,Acha,Moussa,666261490,Orange Money
+CLI-0289,Mbarga,Brice,661358528,MTN Mobile Money
+CLI-0290,Njoya,Brice,650921625,MTN Mobile Money
+CLI-0291,Mbarga,Nadine,689124799,espèces
+CLI-0292,Tagne,Marie,651280324,MTN Mobile Money
+CLI-0293,Nkou,Carine,682878836,MTN Mobile Money
+CLI-0294,Bello,Ibrahim,672936880,MTN Mobile Money
+CLI-0295,Njoya,Ivan,686329640,espèces
+CLI-0296,Njoya,Lina,687906058,Orange Money
+CLI-0297,Abena,Samuel,670357346,MTN Mobile Money
+CLI-0298,Fotso,Daniella,681984233,Orange Money
+CLI-0299,Tchoupo,Rose,654438333,Orange Money
+CLI-0300,Kono,Louise,685981047,espèces

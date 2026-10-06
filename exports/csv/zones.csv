@@ -1,0 +1,6 @@
+code,ville,prix_base,prix_km,majoration_pointe.coefficient
+ZON-01,Douala,500,150,1.3
+ZON-02,Douala,450,140,1.3
+ZON-03,Yaoundé,500,150,1.3
+ZON-04,Bafoussam,400,120,1.3
+ZON-05,Dschang,400,120,1.3

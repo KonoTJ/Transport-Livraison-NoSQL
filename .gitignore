@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+*.swp
+
+# Fichiers temporaires PowerPoint / Office
+~$*
+
+# Vidéo de démonstration (trop lourde / non nécessaire sur le dépôt public)
+video_demo.mp4
+*.mp4
